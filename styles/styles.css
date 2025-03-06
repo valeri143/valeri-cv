@@ -159,9 +159,6 @@ margin-bottom: 10px;
 .sidebar.is-open{
     transform: translateX(0%);
     }
-.sidebar-container{
-    min-width: 370px;
-}
 .photo{
     display: block;
     width: 370px;
